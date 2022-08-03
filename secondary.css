@@ -1,0 +1,1 @@
+body{background-color:#2e2e2e}.container{display:grid;grid-template-columns:1fr;grid-template-rows:1fr;justify-items:center;grid-gap:10px}img{margin-top:20px;width:60%}header{background-color:rgba(179,179,179,.486);text-align:center;align-self:end}@media screen and (max-width:1441px){img{width:100%}}
